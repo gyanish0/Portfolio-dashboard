@@ -3,7 +3,9 @@ import React from 'react'
 const Page = () => {
   return (
     <div>
-      Page
+      <h2 style={{ color: "#fff" }}>
+        Coming soooooooooon!
+      </h2>
     </div>
   )
 }

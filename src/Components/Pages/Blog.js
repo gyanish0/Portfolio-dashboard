@@ -3,7 +3,9 @@ import React from 'react'
 const Blog = () => {
   return (
     <div>
-      Blog
+      <h2 style={{ color: "#fff" }}>
+        Coming soooooooooon!
+      </h2>
     </div>
   )
 }
